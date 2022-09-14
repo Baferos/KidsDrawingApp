@@ -7,6 +7,8 @@
         <entry key="app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.145" />
         <entry key="app/src/main/res/drawable/large.xml" value="0.145" />
         <entry key="app/src/main/res/drawable/medium.xml" value="0.145" />
+        <entry key="app/src/main/res/drawable/palette_normal.xml" value="0.2665" />
+        <entry key="app/src/main/res/drawable/palette_pressed.xml" value="0.2665" />
         <entry key="app/src/main/res/drawable/small.xml" value="0.145" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17958459979736577" />
         <entry key="app/src/main/res/layout/dialog_brush_size.xml" value="0.14" />
