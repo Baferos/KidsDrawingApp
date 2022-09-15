@@ -12,6 +12,8 @@
         <entry key="app/src/main/res/drawable/small.xml" value="0.145" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.17958459979736577" />
         <entry key="app/src/main/res/layout/dialog_brush_size.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/dialog_custom_progress.xml" value="0.24139492753623187" />
+        <entry key="app/src/main/res/xml/path.xml" value="0.24139492753623187" />
       </map>
     </option>
   </component>
